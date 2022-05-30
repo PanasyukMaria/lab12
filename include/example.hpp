@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by PanasyukMaria
 
 #ifndef INCLUDE_EXAMPLE_HPP_
 #define INCLUDE_EXAMPLE_HPP_
